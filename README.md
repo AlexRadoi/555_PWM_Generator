@@ -25,3 +25,5 @@ https://user-images.githubusercontent.com/77704116/181995901-6929eaa3-0670-4f8c-
 
 
 *It should be noted that at higher currents the MOSFET gets hot so a heatsink should be mounted*
+
+*For more current increase the thickness of the copper traces*
